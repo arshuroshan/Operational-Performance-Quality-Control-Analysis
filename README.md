@@ -8,6 +8,20 @@ This project presents a comprehensive operational performance and quality contro
 - **📊 Presentation (PDF):** High-level insights, visualizations, and executive summary.
 - **🎯 Presentation (PPTX):** Editable PowerPoint version of the report.
 
+## 📁 Project Structure
+📊 Operational-Performance-Quality-Control-Analysis/
+- ├── README.md
+- ├── Dataset.xlsx                            # Quality Control Analysis Dataset.xlsx
+- ├── Final_Report.pdf                        # Quality Control Analysis Final Dashboard.pdf
+- ├── Analysis_PPT.pdf                        # Operational Performance and Quality Control Analysis_PPT.pdf
+- ├── Analysis_Documentation.pdf              # Operational Performance and Quality Control Analysis_doc.pdf
+- ├── Dashboard.pbix                          # Quality Control Analysis.pbix
+- ├── Dashboard_Template.pbit                 # Quality Control Analysis Final.pbit
+- ├── Dashboard_Overview.png
+- ├── Dashboard_Details.png
+- ├── Overall_Analysis.png
+
+
 ## 🎯 Problem Statement
 
 As a Data Analyst, the task is to analyze a dataset containing:
